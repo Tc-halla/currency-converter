@@ -3,9 +3,6 @@ This is a responsive, web-based currency converter that allows users to quickly 
 
 ---
 
-## 💱 2. **Currency Converter**
-
-
 # 💱 Currency Converter
 
 A fast and easy currency converter that calculates exchange rates between different world currencies.
